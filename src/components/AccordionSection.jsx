@@ -11,8 +11,8 @@ const AccordionSection = ({ title, content, id }) => {
 	};
 
 	return (
-		<div className="flex gap-4 self-stretch rounded-xl">
-			<div className="flex flex-col justify-center gap-2 grow">
+		<div className="flex gap-4 rounded-xl">
+			<div className="flex flex-col gap-2">
 				<button
 					type="button"
 					role="button"

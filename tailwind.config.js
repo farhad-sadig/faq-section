@@ -10,14 +10,6 @@ module.exports = {
 			desktop: "1440px",
 			tablet: "768px",
 			mobile: "375px"
-		},
-		container: {
-			center: true,
-			padding: {
-				DEFAULT: "16px",
-				tablet: "32px",
-				desktop: "32px"
-			}
 		}
 	},
 	plugins: []
